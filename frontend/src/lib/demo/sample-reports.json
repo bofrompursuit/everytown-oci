@@ -1,0 +1,1760 @@
+{
+ "source": "evals/results/20261104T235455Z-reports.json (quality gate passed). Written by Claude on Amazon Bedrock for the synthetic samples; not real data.",
+ "reports": {
+  "A-en": {
+   "domain_ids": [
+    "FM",
+    "FR",
+    "ML",
+    "PL"
+   ],
+   "report": {
+    "conversation": [
+     "If you or the founder were out for a month, which back-office tasks would stop, and who could pick them up first?",
+     "Can each person on our team say our top three goals in their own words today?",
+     "In which months is money tight, and what could we do about it now?",
+     "What would it mean for our staff and families if the city contract changed or ended?",
+     "What one change do we most want young people and families to see because of our work, and how would we know it is happening?"
+    ],
+    "focus": [
+     {
+      "gap_ids": [
+       "PL2",
+       "PL3"
+      ],
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Set aside two hours with the founder. Write 3 to 5 goals in plain words for street outreach and for youth mentoring.",
+       "For each goal, list the main tasks, a deadline, and one person who owns it. Keep it to two pages.",
+       "Draw a simple logic model: what you do, who you reach, and the change you hope to see.",
+       "Share it at a team meeting. Ask each staff member to say the goals back in their own words."
+      ],
+      "title": "Write one simple work plan for the next six months",
+      "why": "Your answers show you do not yet have a written work plan or logic model. Your work runs on trust and on you and the founder knowing the plan. A short written plan lets your whole team share the load. It also gives funders a clear picture of what you do. The BJA checklist says an action plan keeps everyone on the same page so no task falls through the cracks."
+     },
+     {
+      "gap_ids": [
+       "FM4"
+      ],
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List each month's must-pay costs for the next six months, starting with payroll.",
+       "List when city contract payments and gifts are expected to arrive. Mark any months where money comes in later than bills are due.",
+       "For any tight month, decide early what to do, such as asking for faster payment, timing spending, or a gift appeal.",
+       "Ask your bookkeeper or a second person to look at it with you each month."
+      ],
+      "title": "Make a short cash plan so payroll is always safe",
+      "why": "Your answers show that meeting payroll and other bills on time is not yet steady. With one city contract as your main income, a late payment can hit your staff fast. Steady pay builds trust with your team. A simple cash plan lets you see problems weeks ahead and not at the last minute."
+     }
+    ],
+    "plan": [
+     {
+      "gap_ids": [
+       "PL2",
+       "PL3"
+      ],
+      "horizon": 30,
+      "owner": "Executive director",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Write 3 to 5 goals in plain words for outreach and mentoring.",
+       "List tasks, deadlines, and one owner for each.",
+       "Draw a simple logic model linking activities to the change you hope to see."
+      ],
+      "title": "Write a two-page work plan",
+      "why": "Your answers show no written work plan yet. One short plan is the base for everything else."
+     },
+     {
+      "gap_ids": [
+       "FM4"
+      ],
+      "horizon": 30,
+      "owner": "Executive director, with the bookkeeper or a second finance signer",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List payroll and other bills by month.",
+       "Mark when city contract payments and gifts usually arrive.",
+       "Flag tight months and pick one action for each."
+      ],
+      "title": "Build a six-month cash plan",
+      "why": "Payroll is a growth priority, and your funding depends heavily on one city contract."
+     },
+     {
+      "gap_ids": [
+       "PL3"
+      ],
+      "horizon": 30,
+      "owner": "Executive director",
+      "resource": null,
+      "steps": [
+       "Go over the goals at a team meeting.",
+       "Ask each person to say them back in their own words.",
+       "Post the goals where the team sees them."
+      ],
+      "title": "Share the goals with the whole team",
+      "why": "Staff being able to say the goals clearly is a growth priority, and with four staff this is quick to do."
+     },
+     {
+      "gap_ids": [
+       "ML3",
+       "ML4"
+      ],
+      "horizon": 60,
+      "owner": "Staff member who handles data",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "For outreach and for mentoring, choose 2 or 3 changes you hope to see.",
+       "Pick one simple indicator for each, such as mentoring sessions attended.",
+       "Add these to the spreadsheet or tool you already use and check them monthly."
+      ],
+      "title": "Pick 2 to 3 outcomes for each program and start tracking them",
+      "why": "You already count activities. Naming outcomes lets you show change, which helps with funders."
+     },
+     {
+      "gap_ids": [
+       "PL5",
+       "PL6"
+      ],
+      "horizon": 60,
+      "owner": "Executive director",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Add dates and owners for each main task.",
+       "Hold a 30-minute check-in once a month.",
+       "Note what is done, what slipped, and what to change."
+      ],
+      "title": "Turn the plan into a 6 to 12 month work plan with monthly check-ins",
+      "why": "A plan helps only if the team looks at it. A monthly check-in keeps it alive."
+     },
+     {
+      "gap_ids": [
+       "FM6",
+       "FM8"
+      ],
+      "horizon": 60,
+      "owner": "Bookkeeper or the person who records payments",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Run a simple income and spending report each month from your accounting system.",
+       "Put it next to the budget and note big differences.",
+       "Review it with the executive director and founder."
+      ],
+      "title": "Compare spending to the budget each month",
+      "why": "This is the next step after the cash plan, and it builds the habit funders look for."
+     },
+     {
+      "gap_ids": [
+       "FR5",
+       "FR7",
+       "PL9"
+      ],
+      "horizon": 90,
+      "owner": "Executive director",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List every funder and donor with amounts and renewal dates.",
+       "Mark each as confirmed or pending.",
+       "Ask your city contact and one other funder about multi-year or general operating support.",
+       "Choose one new kind of supporter to talk to, such as local businesses or faith communities."
+      ],
+      "title": "Map your funding for the next 12 months and ask for multi-year support",
+      "why": "One city contract and small gifts is a narrow base. Your answers show commitments are not yet multi-year."
+     },
+     {
+      "gap_ids": [
+       "FM7"
+      ],
+      "horizon": 90,
+      "owner": "Executive director and founder",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Write one page on who approves and who pays.",
+       "Pick one person outside daily operations, such as a board member or trusted advisor, to review reports each quarter.",
+       "Store the page where both leaders can find it."
+      ],
+      "title": "Write down how money is approved and paid",
+      "why": "Written steps protect you and your staff, and they let others share the back-office work."
+     }
+    ],
+    "reading_grade": 4.4,
+    "simplified": false,
+    "sources": [
+     {
+      "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+      "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+     },
+     {
+      "title": "ARCvi: Finding and Sustaining Funding",
+      "url": "https://arcvi.org/finding-and-sustaining-funding/"
+     },
+     {
+      "title": "ARCvi: Using Data That Matters",
+      "url": "https://arcvi.org/using-data-that-matters/"
+     },
+     {
+      "title": "Governance and Related Topics: 501(c)(3) Organizations",
+      "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+     }
+    ],
+    "strengths": [
+     "Young people and families trust you. Credibility in the neighborhood is the hardest thing to build, and you already have it.",
+     "You have the basics of money management: an accounting system, an annual budget, and shared financial duties.",
+     "You track basic program activity and who you serve, and you have someone with time set aside for data.",
+     "You have a city contract, a base of individual supporters, and a clear view of funding for the next 6 to 12 months.",
+     "You secure grants of $10,000 or more, which shows funders already believe in you."
+    ],
+    "summary": "Here's what I've learned about you. You started Southside Youth Peace Collective in 2023. Now you are in your third year with a small team of four, two of them full time. You run street outreach and youth mentoring. Young people and families trust you, and that trust is your greatest asset. Right now, much of the back-office work runs through you and the founder. That is a lot to carry.\n\nYou are strong in several ways. You have an accounting system, an annual budget, and shared financial duties. You track who you serve and what services you deliver. Someone on your team has time set aside for data. You have a city contract, a base of individual supporters, and a clear view of your funding for the next 6 to 12 months. Your answers show these are real building blocks. Many groups your age do not have them yet.\n\nYou have room to grow in writing things down and in looking ahead. Your answers put Planning, Fundraising, Financial Management, and Learning and Evaluation all at the Seeding stage. That is common for a young group. Your funding rests mostly on one city contract, and it is not yet multi-year. If I were you, I would start with two things. First, write one simple work plan, so your whole team can see the goals, tasks, and who does what. Second, make sure you can meet payroll every time, with a short cash plan built around your city contract. These two steps protect your staff and free you from carrying everything in your head. They also make it easier to win and keep funding later."
+   }
+  },
+  "A-es": {
+   "domain_ids": [
+    "FM",
+    "FR",
+    "ML",
+    "PL"
+   ],
+   "report": {
+    "conversation": [
+     "Si el fundador y usted faltaran un mes, ¿quién podría pagar la nómina y responder a la ciudad? ¿Qué tendríamos que dejar por escrito para que fuera posible?",
+     "¿Puede cada persona del equipo decir nuestras tres metas con sus propias palabras?",
+     "¿Qué porcentaje de nuestro dinero viene del contrato con la ciudad, y qué pasaría si se atrasa un pago?",
+     "¿Qué cambio en los jóvenes y las familias queremos poder mostrar dentro de un año, y qué dato nos ayudaría a contarlo?",
+     "¿Qué tareas administrativas podríamos repartir con otra persona del equipo sin quitar tiempo a la calle y a la mentoría?"
+    ],
+    "focus": [
+     {
+      "gap_ids": [
+       "PL2",
+       "PL3"
+      ],
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Reserve dos horas y escriba en una página: 3 a 5 metas en palabras sencillas, las actividades de calle y de mentoría que llevan a cada meta, una fecha y una persona responsable.",
+       "Haga un dibujo simple de tres columnas: lo que hacemos, lo que cambia en los jóvenes y familias, y por qué creemos que funciona. Eso es un modelo lógico (guía del Paso 3.1 de la lista de verificación de la Oficina de Asistencia Judicial, BJA).",
+       "Lea el plan con las otras tres personas del equipo y pídales que lo repitan con sus propias palabras. Ajuste lo que no quede claro."
+      ],
+      "title": "Escribir un plan de trabajo de una página",
+      "why": "Sus respuestas muestran que hoy el plan vive en la cabeza del fundador y de usted, y que no hay un plan escrito ni un modelo lógico (un dibujo simple que une lo que hacen con los cambios que esperan). La guía de planificación dice que en esta etapa lo mejor es escribir lo que ya sabe. Un plan corto también le ayuda a explicar su trabajo a la ciudad y a otros financiadores, y a repartir tareas en un equipo de cuatro personas."
+     },
+     {
+      "gap_ids": [
+       "FM4"
+      ],
+      "resource": {
+       "title": "Hospital-Based Violence Intervention Programs: A Guide to Implementation and Costing (2024)",
+       "url": "https://everytownresearch.org/report/hospital-based-violence-intervention-programs"
+      },
+      "steps": [
+       "En una hoja de cálculo gratuita, anote semana por semana de las próximas 12 semanas: cuánto dinero entra, cuándo, y cuánto sale (nómina, alquiler, gastos del programa).",
+       "Marque las semanas en que el dinero podría quedar corto, por ejemplo si la ciudad se demora en pagar.",
+       "Escriba un plan corto: qué gastos se pueden mover, a quién llamar en la ciudad y cuánto dinero guardado haría falta para cubrir un mes de nómina.",
+       "Revise la hoja cada mes y actualícela."
+      ],
+      "title": "Asegurar que la nómina se pague a tiempo, siempre",
+      "why": "Pagar a tiempo es la base de la confianza de su equipo, y la guía de manejo financiero lo pone primero en las etapas iniciales. Con un solo contrato grande y donaciones pequeñas, un pago atrasado de la ciudad podría afectar los sueldos. Ver los meses por delante le da calma y tiempo para actuar."
+     }
+    ],
+    "plan": [
+     {
+      "gap_ids": [
+       "PL2",
+       "PL3"
+      ],
+      "horizon": 30,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Escriba 3 a 5 metas en lenguaje sencillo.",
+       "Para cada meta, anote las actividades de calle y de mentoría, la fecha y la persona responsable.",
+       "Dibuje un modelo lógico simple de una página.",
+       "Comparta el plan en una reunión de equipo."
+      ],
+      "title": "Escribir el plan de trabajo de una página",
+      "why": "Sus respuestas muestran que aún no hay un plan escrito, y esa es la base para casi todo lo demás."
+     },
+     {
+      "gap_ids": [
+       "FM4"
+      ],
+      "horizon": 30,
+      "owner": "Director ejecutivo",
+      "resource": null,
+      "steps": [
+       "Anote en una hoja de cálculo gratuita lo que entra y lo que sale cada semana.",
+       "Marque las semanas con riesgo de quedar cortas.",
+       "Escriba qué haría en cada caso y a quién llamaría en la ciudad."
+      ],
+      "title": "Hacer el calendario de dinero de 12 semanas",
+      "why": "Pagar la nómina a tiempo es la prioridad financiera de una organización con un solo contrato grande."
+     },
+     {
+      "gap_ids": [
+       "FR7",
+       "PL9",
+       "FR5"
+      ],
+      "horizon": 30,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Anote cada fuente: el contrato de la ciudad, las donaciones y cualquier otra ayuda.",
+       "Escriba el monto, para qué se puede usar y cuándo termina o se renueva.",
+       "Marque qué está confirmado y qué está pendiente."
+      ],
+      "title": "Hacer una lista de todos los fondos y sus fechas",
+      "why": "Ya tiene claridad sobre los próximos 6 a 12 meses. Escribirla le permite ver cuándo vence el contrato y qué falta."
+     },
+     {
+      "gap_ids": [
+       "ML3",
+       "ML4",
+       "PL3"
+      ],
+      "horizon": 60,
+      "owner": "Líder de programa",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Para la interrupción de la violencia y para la mentoría, escriba 2 o 3 cambios que espera ver.",
+       "Elija un indicador simple para cada uno, por ejemplo cuántos jóvenes siguen en contacto después de tres meses.",
+       "Pida a dos familias o jóvenes de confianza su opinión sobre si esos indicadores tienen sentido.",
+       "Anote los datos en una sola hoja de cálculo que todos usen."
+      ],
+      "title": "Elegir 2 o 3 resultados por programa y cómo contarlos",
+      "why": "Sus respuestas muestran que ya cuenta actividades. El siguiente paso es decir qué cambio busca en la calle y en la mentoría."
+     },
+     {
+      "gap_ids": [
+       "FM6",
+       "FM7",
+       "FM8"
+      ],
+      "horizon": 60,
+      "owner": "Director ejecutivo",
+      "resource": null,
+      "steps": [
+       "Cada mes, saque del sistema de contabilidad un reporte simple de ingresos y gastos y compárelo con el presupuesto.",
+       "Escriba en media página las diferencias y qué hará.",
+       "Pida a una segunda persona de confianza que apruebe los pagos grandes mientras usted los registra, o al revés.",
+       "Anote por escrito los pasos para aprobar y pagar."
+      ],
+      "title": "Revisar cada mes el presupuesto contra lo gastado",
+      "why": "Hoy la parte administrativa pasa por pocas manos. Un hábito mensual y una segunda persona que revise protegen a la organización y a usted."
+     },
+     {
+      "gap_ids": [
+       "PL7"
+      ],
+      "horizon": 60,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Junte en una carpeta compartida lo que ya tiene: misión, presupuesto, contrato, plan de trabajo.",
+       "Haga una lista de lo que falta.",
+       "Elija uno o dos documentos para escribir primero."
+      ],
+      "title": "Reunir los documentos clave en un solo lugar",
+      "why": "Tener la misión, el presupuesto y las políticas a mano hace más fácil pedir fondos y responder a la ciudad."
+     },
+     {
+      "gap_ids": [
+       "PL5",
+       "PL6",
+       "PL8"
+      ],
+      "horizon": 90,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Use su plan de una página para armar un plan de 6 a 12 meses con tareas, fechas y responsables.",
+       "Reserve 30 minutos al mes en la reunión de equipo para ver qué se hizo y qué cambia.",
+       "Pregunte qué se espera lograr a las 48 horas, a los 30 días y a los 90 días después de un contacto importante."
+      ],
+      "title": "Convertir el plan en un plan de 6 a 12 meses con revisión mensual",
+      "why": "Un plan que se revisa cada mes se vuelve una herramienta del equipo y no solo un papel."
+     },
+     {
+      "gap_ids": [
+       "FR5",
+       "FR6",
+       "FR9"
+      ],
+      "horizon": 90,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Pregunte a la ciudad cómo y cuándo se renueva el contrato y si hay opciones de más de un año.",
+       "Escriba una página con su plan, sus resultados y lo que cuesta atender a un joven durante un año.",
+       "Elija dos financiadores que den apoyo de varios años o apoyo general, y pida una primera conversación.",
+       "Pida a las personas que ya donan que compartan su historia, con permiso."
+      ],
+      "title": "Preparar la conversación sobre apoyo de varios años",
+      "why": "Depender de un contrato y de donaciones pequeñas es un riesgo. Con sus datos y su plan escrito podrá hacer pedidos más sólidos."
+     },
+     {
+      "gap_ids": [
+       "FM5"
+      ],
+      "horizon": 90,
+      "owner": "Director ejecutivo",
+      "resource": null,
+      "steps": [
+       "Pregunte a la ciudad si su contrato exige una revisión o auditoría.",
+       "Pida precio a dos contadores externos para una revisión sencilla.",
+       "Decida con su equipo la fecha y cómo pagarla."
+      ],
+      "title": "Averiguar qué se necesita para una revisión financiera externa",
+      "why": "Una revisión independiente da confianza a la ciudad y a futuros financiadores, y es un paso a su ritmo."
+     }
+    ],
+    "reading_grade": null,
+    "simplified": false,
+    "sources": [
+     {
+      "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+      "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+     },
+     {
+      "title": "Hospital-Based Violence Intervention Programs: A Guide to Implementation and Costing (2024)",
+      "url": "https://everytownresearch.org/report/hospital-based-violence-intervention-programs"
+     },
+     {
+      "title": "ARCvi: Finding and Sustaining Funding",
+      "url": "https://arcvi.org/finding-and-sustaining-funding/"
+     },
+     {
+      "title": "ARCvi: Using Data That Matters",
+      "url": "https://arcvi.org/using-data-that-matters/"
+     },
+     {
+      "title": "Governance and Related Topics: 501(c)(3) Organizations",
+      "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+     }
+    ],
+    "strengths": [
+     "Su mayor activo es la confianza con jóvenes y familias del barrio. Es la base de la interrupción de la violencia y de la mentoría, y no se puede copiar.",
+     "Ya tiene un sistema de contabilidad, un presupuesto anual y algunas responsabilidades del dinero repartidas.",
+     "Tiene personas que donan, consigue subvenciones de $10,000 o más y sabe de dónde vendrá el dinero en los próximos 6 a 12 meses.",
+     "Registra los servicios que da y los datos de las personas que atiende, y tiene a alguien encargado de los datos.",
+     "En solo tres años ha construido un colectivo con un contrato municipal y una comunidad que confía en él."
+    ],
+    "summary": "Esto es lo que he aprendido sobre usted: lidera un colectivo de barrio con cuatro personas, que hace interrupción de la violencia y mentoría juvenil. Está en su tercer año. Su mayor valor es la confianza que tiene con los jóvenes y las familias. Eso no se compra, y es la base de todo su trabajo. También veo que casi toda la parte administrativa pasa por usted y por el fundador, y que su financiamiento depende sobre todo de un contrato con la ciudad. Sus respuestas muestran que hoy las cuatro áreas revisadas (planificación, recaudación de fondos, manejo del dinero y seguimiento de resultados) están en la etapa de Semilla (Seeding). Es una etapa normal para una organización joven, y es un buen punto de partida.\n\nUsted es fuerte en varias cosas concretas. Ya usa un sistema de contabilidad, tiene un presupuesto anual y reparte algunas responsabilidades del dinero. Cuenta con apoyo de personas que donan, consigue subvenciones de $10,000 o más y sabe de dónde vendrá el dinero en los próximos 6 a 12 meses. También registra a quién atiende y qué servicios da, y tiene a alguien encargado de los datos. Eso es mucho para un equipo pequeño.\n\nUsted tiene espacio para crecer en poner por escrito su plan, en asegurar que la nómina se pague siempre a tiempo y, después, en dar más estabilidad a su financiamiento y en medir resultados. Para que no se sienta abrumado, mi consejo es empezar con dos cosas. Si yo fuera usted, empezaría con (1) un plan de trabajo escrito de una página, con metas, actividades, fechas y responsables, y (2) un calendario simple de entradas y salidas de dinero para saber con meses de anticipación que la nómina está cubierta. Son pasos pequeños que una persona puede hacer, y que le dan base para pedir fondos de varios años y para repartir el trabajo con su equipo."
+   }
+  },
+  "B-en": {
+   "domain_ids": [
+    "FM",
+    "FR",
+    "ML",
+    "PL"
+   ],
+   "report": {
+    "conversation": [
+     "If our largest government contract ended or was cut, which programs and jobs would be hit first, and what would we do?",
+     "Who on our team or board could own fundraising, and how many hours a week could they give?",
+     "What one change in the lives of participants do we most want our data to show, and what would we need to count to see it?",
+     "What do our outreach workers and hospital staff need to make data entry feel easy instead of heavy?",
+     "Who could join our board or advisory group to bring finance know-how while keeping our community voice strong?"
+    ],
+    "focus": [
+     {
+      "gap_ids": [
+       "FR7"
+      ],
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List every funder and contract with the amount, what it can be spent on, and its end or renewal date.",
+       "Mark each line as confirmed or pending, and lay them out month by month for the next 12 months.",
+       "Circle any month or program where money looks thin, especially for hospital-based work and street outreach.",
+       "Review the map with your leadership team and decide which program promises depend on pending money."
+      ],
+      "title": "Map your next 12 months of funding",
+      "why": "About 80% of your revenue is restricted government funding, so you need to see clearly what is confirmed and what is still waiting. Your answers show strong planning habits, but fundraising visibility is still a growth priority. A single map turns what you know into something your whole leadership team can see and act on. It is also the base for every other fundraising step, like asking for flexible money or planning for a lost grant."
+     },
+     {
+      "gap_ids": [
+       "ML6",
+       "ML15"
+      ],
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Write a one-page guide on what to record, when, and what each key word means, with one version for outreach and one for hospital work.",
+       "Hold a short hands-on training, and keep it practical and quick so it fits field schedules.",
+       "Ask supervisors to check a few entries in one-on-one meetings and give kind, specific feedback."
+      ],
+      "title": "Train staff to collect data the same way",
+      "why": "Your team already uses standard data tools and reviews data together. Your answers show that staff training and shared habits for using data are not yet steady across the team. Outreach workers and hospital staff work in very different settings, so they need clear, simple rules. When everyone enters data the same way, your numbers are easier to trust and easier to use with funders."
+     }
+    ],
+    "plan": [
+     {
+      "gap_ids": [
+       "FR7"
+      ],
+      "horizon": 30,
+      "owner": "Executive director",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Collect every grant and contract with amount, allowed uses and end date.",
+       "Mark each as confirmed or pending and place it month by month.",
+       "Note gaps and decide which program promises depend on pending money.",
+       "Share the one-page map with your leadership team."
+      ],
+      "title": "Build the 12-month funding map",
+      "why": "Most of your money is restricted government funding, so seeing every source and date in one place is the first step to steadier planning."
+     },
+     {
+      "gap_ids": [
+       "ML6",
+       "ML15"
+      ],
+      "horizon": 30,
+      "owner": "Program manager",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Write a one-page guide for data entry, with plain meanings for each key term.",
+       "Hold a short training for outreach and hospital staff, using real examples from their work.",
+       "Ask supervisors to bring data entry up in one-on-one meetings."
+      ],
+      "title": "Write a simple data guide and hold a first training",
+      "why": "Your answers show staff are not yet trained to collect and use data the same way, and this is the easiest way to make your numbers more reliable."
+     },
+     {
+      "gap_ids": [
+       "FM10",
+       "FM9"
+      ],
+      "horizon": 30,
+      "owner": "Person who manages the books, with the executive director",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "List every tax, report and audit deadline for the next 12 months.",
+       "Name one owner for each deadline and one backup.",
+       "Review any past audit notes and write down what has been fixed.",
+       "Share the calendar with the board and ask for a volunteer with finance experience to review it."
+      ],
+      "title": "Make a tax and filing calendar",
+      "why": "Filing on time and learning from audits are growth priorities, and your board is thin on finance expertise, so one clear calendar with one owner protects you."
+     },
+     {
+      "gap_ids": [
+       "FR11",
+       "FR12",
+       "FR17"
+      ],
+      "horizon": 60,
+      "owner": "Executive director",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Using your funding map, sort funders by type: government, foundation, hospital partner, business and individual.",
+       "Pick three or four funders to build relationships with before you apply.",
+       "Ask current funders about general operating support or multi-year terms, and explain how steady funding protects staff and participants.",
+       "Track how much of your budget is flexible each quarter."
+      ],
+      "title": "Widen and balance your funder list",
+      "why": "With about 80% restricted government money, more funder types and more flexible money would protect your staff if one contract changes."
+     },
+     {
+      "gap_ids": [
+       "FR15",
+       "FR19"
+      ],
+      "horizon": 60,
+      "owner": "Executive director, with board chair",
+      "resource": null,
+      "steps": [
+       "Decide who will hold fundraising for a set number of hours each week, or whether to use a part-time consultant.",
+       "Write down what that person does and what decisions they can make.",
+       "Invite one or two board members to help with introductions to funders.",
+       "Check progress at each monthly leadership meeting."
+      ],
+      "title": "Give fundraising a named owner",
+      "why": "Your answers show no one has dedicated time for fundraising, which makes it hard to follow through on relationships."
+     },
+     {
+      "gap_ids": [
+       "ML15",
+       "ML6",
+       "ML11"
+      ],
+      "horizon": 60,
+      "owner": "Program manager",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Pick one person to look over entries each month for gaps or mistakes.",
+       "Share the results with staff in a short, friendly team meeting.",
+       "Update the data guide with any questions that come up.",
+       "Decide who will keep the main responsibility for data, even if it is part-time."
+      ],
+      "title": "Run a monthly data check and review",
+      "why": "Training only sticks if the habit continues, and your team already reviews data together, so you can build on that."
+     },
+     {
+      "gap_ids": [
+       "ML12",
+       "ML10",
+       "ML14"
+      ],
+      "horizon": 90,
+      "owner": "Program manager, with the executive director",
+      "resource": {
+       "title": "Hospital-based violence intervention programs in the United States and Canada: systematic review, meta-analysis and EAST practice guideline (2026)",
+       "url": "https://doi.org/10.1097/TA.0000000000005101"
+      },
+      "steps": [
+       "Pick two or three measures of change for each program, such as how often participants stay engaged or connected to services.",
+       "Ask staff and community members what success looks like to them.",
+       "Start collecting these measures and write down one change you made because of what you learned.",
+       "Use one or two of these results in your next funding proposal or report."
+      ],
+      "title": "Choose a few outcome measures beyond counts",
+      "why": "Your data is mostly output counting right now, and outcome numbers help both learning and fundraising."
+     },
+     {
+      "gap_ids": [
+       "FM11",
+       "PL13",
+       "FR17"
+      ],
+      "horizon": 90,
+      "owner": "Executive director, with the person who manages the books",
+      "resource": {
+       "title": "Hospital-Based Violence Intervention Programs: A Guide to Implementation and Costing (2024)",
+       "url": "https://everytownresearch.org/report/hospital-based-violence-intervention-programs"
+      },
+      "steps": [
+       "Extend your funding map to cover two to three years, marking what is confirmed and what is only hoped for.",
+       "Use the costing guide to check that your budget covers the full cost of each program, including supervision, data and training.",
+       "Set a goal for months of reserves.",
+       "Bring the draft to the board and ask for feedback from the member or volunteer with finance experience."
+      ],
+      "title": "Build a 2 to 3 year funding view and budget",
+      "why": "Once you have a clear picture of this year, you can look ahead and plan hiring and growth around funding you can count on."
+     },
+     {
+      "gap_ids": [
+       "FR8",
+       "FR10",
+       "FR16"
+      ],
+      "horizon": 90,
+      "owner": "Executive director",
+      "resource": {
+       "title": "Community Safety Fund grantees: viewpoints and articles",
+       "url": "https://everytownsupportfund.org/category/grantees/community-safety-fund-grantees/"
+      },
+      "steps": [
+       "Find funders who give in the $25,000 to $75,000 range and above, and learn what they fund.",
+       "Ask your hospital partners and peer organizations for introductions.",
+       "Draft one strong proposal using your funding map, outcome numbers and a participant story shared with consent.",
+       "Hold a first conversation with a funder before you apply."
+      ],
+      "title": "Prepare for larger grants",
+      "why": "Larger grants are a growth priority, and they go more smoothly when your funding view, outcome numbers and relationships are ready."
+     }
+    ],
+    "reading_grade": 7.3,
+    "simplified": false,
+    "sources": [
+     {
+      "title": "ARCvi: Finding and Sustaining Funding",
+      "url": "https://arcvi.org/finding-and-sustaining-funding/"
+     },
+     {
+      "title": "ARCvi: Using Data That Matters",
+      "url": "https://arcvi.org/using-data-that-matters/"
+     },
+     {
+      "title": "Governance and Related Topics: 501(c)(3) Organizations",
+      "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+     },
+     {
+      "title": "Hospital-based violence intervention programs in the United States and Canada: systematic review, meta-analysis and EAST practice guideline (2026)",
+      "url": "https://doi.org/10.1097/TA.0000000000005101"
+     },
+     {
+      "title": "Hospital-Based Violence Intervention Programs: A Guide to Implementation and Costing (2024)",
+      "url": "https://everytownresearch.org/report/hospital-based-violence-intervention-programs"
+     },
+     {
+      "title": "Community Safety Fund grantees: viewpoints and articles",
+      "url": "https://everytownsupportfund.org/category/grantees/community-safety-fund-grantees/"
+     }
+    ],
+    "strengths": [
+     "You keep written work plans for the next 6 to 12 months, update them often, and check progress against them.",
+     "You know where funding will come from for the next year and have a written fundraising plan.",
+     "You review financial reports regularly with leadership and the board, track spending by program and funding stream, and complete independent audits every year.",
+     "You have some multi-year commitments, a mix of restricted and flexible money, and reserves to build on.",
+     "You set program outcomes, track progress toward them, review data as a team, and share results with funders and partners."
+    ],
+    "summary": "Here's what I've learned about you. You lead Riverbend Violence Interruption Network, a team of 19 people that has been at this work since 2016. You run hospital-based intervention and street outreach, and your budget is about $2.1M. Most of your money, roughly 80%, is government funding with strings attached. You are strong in planning and money management. Your answers show written work plans that you check against progress, a clear view of next year's funding, regular financial reports, yearly independent audits, and reserves. You also use standard data tools, review data as a team, and share it with funders and partners. By stage, Planning and Financial Management are Developing, and Fundraising and Monitoring, Learning and Evaluation are Emerging.\n\nYou have room to grow in two connected areas. The first is fundraising. With most of your money restricted and tied to government, one change in a contract could shake the whole team. Your answers point to a need for more varied funders, more flexible money, and someone whose job includes fundraising. The second is data. You collect numbers, but your answers show that not every staff member has been trained to collect and use data the same way. That makes it harder to show the change you create beyond counting contacts and visits. Strong data also helps with fundraising, so these two areas help each other.\n\nIf I were you, I would start with two things. First, build one simple 12-month map of your funding that shows what is confirmed and what is still pending. Second, give your staff short, practical training on collecting and entering data the same way every time. Neither needs new money. Together they give you a clear picture of your funding and numbers you can trust when you tell your story. The rest of the plan builds on them over 90 days."
+   }
+  },
+  "B-es": {
+   "domain_ids": [
+    "FM",
+    "FR",
+    "ML",
+    "PL"
+   ],
+   "report": {
+    "conversation": [
+     "Si nuestro mayor financiador del gobierno terminara su apoyo, ¿cuántos meses podríamos seguir operando y qué haríamos primero?",
+     "¿Qué datos de nuestro trabajo de calle y del hospital mejor muestran la diferencia que hacemos, y todos los registran igual?",
+     "¿Quién en el equipo puede liderar la recaudación de fondos, y qué tendría que dejar de hacer para tener ese tiempo?",
+     "¿Qué tipo de experiencia en finanzas le falta hoy a nuestra junta, y a quién podríamos invitar?",
+     "¿Qué relaciones con financiadores o con hospitales podrían convertirse este año en apoyo flexible o de varios años?"
+    ],
+    "focus": [
+     {
+      "gap_ids": [
+       "FR7"
+      ],
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Haga una lista en una hoja de cálculo de cada financiador, con monto, fecha de renovación y si está confirmado o pendiente.",
+       "Marque mes por mes dónde alcanza el dinero y dónde hay huecos, tanto para el programa hospitalario como para el trabajo de calle.",
+       "Revise el mapa con su equipo de liderazgo y compare los compromisos del programa con el dinero que de verdad está confirmado."
+      ],
+      "title": "Hacer un mapa de sus fondos de los próximos 12 meses",
+      "why": "Cerca del 80% de sus ingresos son fondos del gobierno con uso restringido, así que saber qué dinero es seguro y qué dinero está pendiente protege a su personal de 19 personas y a sus participantes. Sus respuestas muestran que ya tienen planes escritos y algo de visibilidad, pero este punto sigue como prioridad. Un solo mapa compartido convierte lo que hoy se sabe en partes en una imagen completa. La guía de recaudación de fondos propone empezar con una lista de cada financiador, con montos y fechas de renovación."
+     },
+     {
+      "gap_ids": [
+       "ML6",
+       "ML15"
+      ],
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Escriba una guía corta, de una o dos páginas, sobre qué se registra, cuándo y cómo, con ejemplos del trabajo de calle y del hospital.",
+       "Haga una sesión corta de capacitación con todo el personal que registra datos, y que sea práctica.",
+       "Use las reuniones de supervisión para recordar lo acordado y para dar retroalimentación amable sobre los registros."
+      ],
+      "title": "Capacitar al personal para registrar los datos de la misma manera",
+      "why": "Sus herramientas de datos ya existen y se usan, pero la evaluación sigue basada en contar actividades. Si cada persona registra a su manera, es difícil mostrar resultados a los financiadores y mejorar los programas. La guía de monitoreo recomienda usar las mismas herramientas y definiciones siempre, y capacitar al personal para usarlas. Esto también ayuda a sus equipos de calle y de hospital a contar mejor su historia."
+     }
+    ],
+    "plan": [
+     {
+      "gap_ids": [
+       "FR7",
+       "PL13"
+      ],
+      "horizon": 30,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Liste cada financiador con monto, fechas clave y estado (confirmado o pendiente).",
+       "Marque en un calendario los meses con huecos de dinero.",
+       "Compártalo con su equipo de liderazgo y acuerden una fecha mensual para actualizarlo."
+      ],
+      "title": "Armar el mapa de fondos de 12 meses",
+      "why": "Con cerca del 80% de sus ingresos en fondos restringidos del gobierno, necesita ver con claridad qué está confirmado y qué está pendiente."
+     },
+     {
+      "gap_ids": [
+       "ML6",
+       "ML15"
+      ],
+      "horizon": 30,
+      "owner": "Gerente de programa",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Reúna a una persona del equipo de calle y a una del programa hospitalario para decidir qué datos son indispensables.",
+       "Escriba la guía en una o dos páginas, con ejemplos reales y palabras sencillas.",
+       "Pruébela una semana y ajústela con lo que el personal le diga."
+      ],
+      "title": "Escribir una guía corta para registrar datos",
+      "why": "Sus respuestas muestran que los sistemas de datos se usan pero de forma desigual. Una guía simple es el primer paso para que todos registren igual."
+     },
+     {
+      "gap_ids": [
+       "FR15",
+       "FR19"
+      ],
+      "horizon": 30,
+      "owner": "Director ejecutivo",
+      "resource": null,
+      "steps": [
+       "Decida si esta responsabilidad la llevará una persona del equipo con tiempo apartado o un consultor por horas.",
+       "Escriba en media página qué hará esa persona cada mes.",
+       "Cuéntelo a la junta en su próxima reunión."
+      ],
+      "title": "Elegir quién lidera la recaudación de fondos",
+      "why": "Hoy no hay una persona o consultor con tiempo dedicado a recaudar fondos. Nombrar a alguien hace que el mapa de fondos se convierta en acciones."
+     },
+     {
+      "gap_ids": [
+       "ML6",
+       "ML15",
+       "ML11"
+      ],
+      "horizon": 60,
+      "owner": "Gerente de programa",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Haga una sesión práctica de capacitación para el personal de calle y del hospital.",
+       "Pida a cada supervisor que revise unos registros con cada persona una vez al mes y dé retroalimentación amable.",
+       "Nombre a una persona como responsable de los datos, aunque sea con unas pocas horas al mes."
+      ],
+      "title": "Capacitar al personal y reforzar los datos en la supervisión",
+      "why": "Con la guía lista, el siguiente paso es que todas las personas la usen y que los líderes den seguimiento con apoyo, no con presión."
+     },
+     {
+      "gap_ids": [
+       "FR8",
+       "FR11",
+       "FR7"
+      ],
+      "horizon": 60,
+      "owner": "Líder de recaudación de fondos",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Revise su mapa y marque en qué sectores faltan financiadores: fundaciones, gobierno, sector privado y hospitales.",
+       "Haga una lista corta de cinco a ocho financiadores que den en ese rango y empiece a conocer a las personas que los manejan.",
+       "Compare lo que el programa se ha comprometido a hacer con el dinero confirmado y ajuste donde haga falta."
+      ],
+      "title": "Buscar financiadores de $25,000 a $75,000 y alinear compromisos",
+      "why": "Sus respuestas muestran espacio para crecer en subvenciones medianas y grandes. Primero hay que alinear lo que promete con el dinero que tiene."
+     },
+     {
+      "gap_ids": [
+       "FM10",
+       "FM9"
+      ],
+      "horizon": 60,
+      "owner": "Presidente de la junta",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Pida a la junta nombres de personas de confianza con experiencia en finanzas o contabilidad, como voluntarios o asesores.",
+       "Haga un calendario de fechas de impuestos y documentos que se deben presentar, y asigne quién responde por cada una.",
+       "Revise los hallazgos de auditorías pasadas y anote lo que ya mejoró y lo que falta."
+      ],
+      "title": "Sumar a la junta a alguien con experiencia en finanzas",
+      "why": "Su junta funciona, pero tiene poca experiencia en finanzas, y esto importa para las auditorías, los impuestos y la planificación a varios años."
+     },
+     {
+      "gap_ids": [
+       "ML10",
+       "ML12",
+       "FR8"
+      ],
+      "horizon": 90,
+      "owner": "Gerente de programa",
+      "resource": {
+       "title": "ARCvi: The Evidence",
+       "url": "https://arcvi.org/the-evidence/"
+      },
+      "steps": [
+       "Escoja dos o tres indicadores que vayan más allá de contar actividades, por ejemplo cuánto tiempo y cuán seguido se acompaña a cada participante.",
+       "Pida a la comunidad y a los participantes su opinión sobre qué significa el éxito.",
+       "Incluya esos datos y una historia contada con permiso de la persona en su próxima propuesta."
+      ],
+      "title": "Usar los datos para contar su historia a los financiadores",
+      "why": "Ya comparten datos con financiadores. Mostrar también cambios en seguridad y bienestar, no solo conteos, fortalece sus propuestas."
+     },
+     {
+      "gap_ids": [
+       "FR12",
+       "FR17",
+       "FR11"
+      ],
+      "horizon": 90,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "En cada propuesta o renovación, pida apoyo general para la operación o compromisos de varios años, y explique cómo eso protege al personal y a los participantes.",
+       "Hable con sus socios hospitalarios sobre cómo apoyar el programa. Si su estado llega a pagar servicios de CVI por Medicaid, empiece a mejorar ahora los registros de servicios.",
+       "Anote cada trimestre qué parte de sus fondos es flexible."
+      ],
+      "title": "Pedir más fondos flexibles y de varios años",
+      "why": "Casi todo su dinero es restringido, y los fondos flexibles y de varios años protegen empleos si se pierde una subvención."
+     },
+     {
+      "gap_ids": [
+       "FM11",
+       "PL10",
+       "PL11"
+      ],
+      "horizon": 90,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "Hospital-Based Violence Intervention Programs: A Guide to Implementation and Costing (2024)",
+       "url": "https://everytownresearch.org/report/hospital-based-violence-intervention-programs"
+      },
+      "steps": [
+       "Use la guía de costos para sumar el costo completo de cada programa, con supervisión, datos, capacitación y gastos generales.",
+       "Extienda su presupuesto a dos o tres años y compárelo con el mapa de fondos.",
+       "Muéstrelo a la junta y a la persona con experiencia en finanzas, y úselo como base de un plan estratégico corto."
+      ],
+      "title": "Hacer un primer borrador de presupuesto a varios años",
+      "why": "Con el mapa de fondos y el costo real de sus programas, podrá planear contrataciones y crecimiento con más seguridad."
+     }
+    ],
+    "reading_grade": null,
+    "simplified": false,
+    "sources": [
+     {
+      "title": "ARCvi: Finding and Sustaining Funding",
+      "url": "https://arcvi.org/finding-and-sustaining-funding/"
+     },
+     {
+      "title": "ARCvi: Using Data That Matters",
+      "url": "https://arcvi.org/using-data-that-matters/"
+     },
+     {
+      "title": "Governance and Related Topics: 501(c)(3) Organizations",
+      "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+     },
+     {
+      "title": "ARCvi: The Evidence",
+      "url": "https://arcvi.org/the-evidence/"
+     },
+     {
+      "title": "Hospital-Based Violence Intervention Programs: A Guide to Implementation and Costing (2024)",
+      "url": "https://everytownresearch.org/report/hospital-based-violence-intervention-programs"
+     }
+    ],
+    "strengths": [
+     "Tienen planes de trabajo escritos para 6 a 12 meses, los actualizan y revisan el avance con regularidad.",
+     "Cuentan con un plan escrito para conseguir fondos, y con compromisos de más de un año y fuentes que apoyan tanto los programas como la operación.",
+     "Sus informes financieros se revisan con regularidad, siguen los gastos por programa o fuente de fondos, y hacen auditorías independientes cada año. También manejan reservas.",
+     "Usan herramientas estándar para los datos, revisan la información en equipo y la usan para decidir y mejorar los programas.",
+     "Comparten datos del programa con financiadores y socios, y tienen resultados definidos para sus programas."
+    ],
+    "summary": "Esto es lo que he aprendido de usted y de su organización. Riverbend lleva desde 2016 haciendo un trabajo difícil: intervención hospitalaria contra la violencia y trabajo de calle en dos precintos. Con 19 personas y cerca de $2.1 millones al año, ya no es un grupo que empieza. Sus respuestas muestran que los sistemas centrales existen y se usan, pero todavía no son parejos. Su junta funciona, aunque tiene poca experiencia en finanzas. La evaluación aún se basa sobre todo en contar actividades. Además, cerca de cuatro de cada cinco dólares son fondos del gobierno que solo se pueden usar para fines específicos.\n\nUsted es fuerte en la planificación del día a día. Tienen planes de trabajo escritos para 6 a 12 meses y le dan seguimiento. También tienen un plan escrito para conseguir fondos, algunos compromisos de más de un año y reservas. Sus informes financieros se revisan con regularidad y hacen auditorías independientes cada año. En datos, usan herramientas estándar, revisan la información en equipo y la comparten con financiadores y socios. En conjunto, su organización está en etapa En desarrollo en Planificación y en Gestión financiera. En Recaudación de fondos y en Monitoreo, aprendizaje y evaluación está en etapa Emergente, y ahí hay más espacio para crecer.\n\nUsted tiene espacio para crecer en tres cosas. Primero, tener una vista clara y compartida de los fondos de los próximos 12 meses. Segundo, lograr que todo el personal reúna y use los datos de la misma manera. Tercero, más adelante, tener más fondos flexibles y de varios años, y más gente dedicada a recaudar. Si yo fuera usted, empezaría por dos cosas: 1) hacer un mapa sencillo de sus fondos de los próximos 12 meses, y 2) capacitar al personal para que registre los datos de forma consistente. Son bases que abren la puerta a más fondos y a un trabajo más estable. Las demás metas pueden esperar."
+   }
+  },
+  "C-en": {
+   "domain_ids": [
+    "FM",
+    "FR",
+    "ML",
+    "PL"
+   ],
+   "report": {
+    "conversation": [
+     "If our biggest funder ended its grant, who on our team and board would lead the response, and are they ready?",
+     "What is the single most useful lesson from our current strategic plan, and how will it change our next one?",
+     "Which fundraising job could a board member or program leader take on in the next 60 days?",
+     "How can our street outreach, hospital and re-entry teams each help shape the questions we want our data to answer?",
+     "Is our data system keeping up with our growth to 48 staff, and what is the first fix we would make?"
+    ],
+    "focus": [
+     {
+      "gap_ids": [
+       "PL14",
+       "PL15"
+      ],
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Hold a half-day session with leaders from street outreach, the hospital program and re-entry. Ask what worked, what did not and what surprised you in the current plan.",
+       "Write the lessons on two pages in plain words, and note which ones change your next plan.",
+       "Set a simple yearly rhythm: plan, carry it out, then pause to reflect with staff and board.",
+       "Pick one planning practice that works well for you, since peers may learn from it."
+      ],
+      "title": "Turn your current plan into lessons for the next one",
+      "why": "Your answers show you already run a multi-year strategic plan that is tied to yearly work plans. The next step is to catch what that plan taught you, so the next cycle starts smarter. With three programs and 48 staff, a repeatable way of planning keeps everyone pulling in the same direction and gives funders confidence."
+     },
+     {
+      "gap_ids": [
+       "FR19",
+       "FR20"
+      ],
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List who touches fundraising today, formally or not, including board members, program leaders and the people who tell your story.",
+       "Give each person one clear, small role, such as making introductions, sharing program stories or checking numbers for proposals.",
+       "Meet monthly for 30 minutes to review the funder list and next asks.",
+       "Choose one or two funders who could make very large grants, and start building the relationship before you ask."
+      ],
+      "title": "Share the fundraising work across more people",
+      "why": "Your answers show you have dedicated fundraising capacity, a written plan and a good view of future funding. That work still sits with too few people. When more staff and board members share it, one departure or one lost grant matters less. This protects the jobs of your outreach workers, hospital team and re-entry staff."
+     }
+    ],
+    "plan": [
+     {
+      "gap_ids": [
+       "PL14"
+      ],
+      "horizon": 30,
+      "owner": "Executive director",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Schedule one half-day review with program leaders for street outreach, hospital-based work and re-entry.",
+       "Ask three questions: what worked, what did not, and what should we do differently?",
+       "Write the answers on two pages and share them with the leadership team."
+      ],
+      "title": "Capture lessons from your current strategic plan",
+      "why": "Your plan is already working and updated often. Writing down what it taught you gives your next plan a strong start."
+     },
+     {
+      "gap_ids": [
+       "FR19"
+      ],
+      "horizon": 30,
+      "owner": "Fundraising lead",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List every person who helps raise money, including board members and program leaders.",
+       "Note what each person does now and what they could take on.",
+       "Share the map with the executive director and agree on two or three people to add."
+      ],
+      "title": "Map who does fundraising today",
+      "why": "Your answers show fundraising rests on too few people. A simple map shows where to share the load."
+     },
+     {
+      "gap_ids": [
+       "FM18"
+      ],
+      "horizon": 30,
+      "owner": "Finance lead",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Pick three numbers staff should know, such as funding sources, spending by program and months of reserves.",
+       "Write a one-page summary in everyday language.",
+       "Share it at an all-staff meeting and ask what is unclear."
+      ],
+      "title": "Write a one-page money update in plain words",
+      "why": "Your finances are well managed. Making them easy to understand helps staff and the board feel part of the plan."
+     },
+     {
+      "gap_ids": [
+       "PL14"
+      ],
+      "horizon": 60,
+      "owner": "Executive director",
+      "resource": null,
+      "steps": [
+       "Put a quarterly progress check and a yearly reflection session on the calendar.",
+       "Use the lessons from the 30-day review to shape the next planning cycle.",
+       "Invite board members and a few frontline staff to take part."
+      ],
+      "title": "Set a yearly plan, do and reflect cycle",
+      "why": "A repeatable rhythm keeps your planning alive as you grow, and builds on the lessons you captured."
+     },
+     {
+      "gap_ids": [
+       "FR19",
+       "FR20"
+      ],
+      "horizon": 60,
+      "owner": "Fundraising lead",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Give each chosen person a clear role in writing, such as introductions, stories or proposal review.",
+       "Start a monthly 30-minute funder check-in.",
+       "Name one or two funders who give large grants, and plan how to build the relationship before asking."
+      ],
+      "title": "Build a team approach to fundraising",
+      "why": "With roles mapped, you can give more people real, small jobs and reduce reliance on a few."
+     },
+     {
+      "gap_ids": [
+       "ML16"
+      ],
+      "horizon": 60,
+      "owner": "Data and evaluation lead",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Gather program leaders and ask what two or three questions they most want data to answer.",
+       "Check that your current data collection answers them, and note what is missing.",
+       "Agree on how findings will shape strategy and be shared with the community."
+      ],
+      "title": "Choose a few questions to guide your learning",
+      "why": "Your learning work is strong. A short list of questions keeps data collection focused, which matters as your data tools need updating."
+     },
+     {
+      "gap_ids": [
+       "PL15"
+      ],
+      "horizon": 90,
+      "owner": "Training institute lead",
+      "resource": {
+       "title": "Actionable Resources for Change in Violence Intervention (ARCvi)",
+       "url": "https://arcvi.org"
+      },
+      "steps": [
+       "Pick the planning practice that worked best, such as the reflection session.",
+       "Turn it into a short guide or template.",
+       "Offer it in a peer training or learning session."
+      ],
+      "title": "Share one planning practice with peers",
+      "why": "You already train other organizations. Sharing one tool that works helps the field and strengthens your role as a model."
+     },
+     {
+      "gap_ids": [
+       "FM17",
+       "FM18"
+      ],
+      "horizon": 90,
+      "owner": "Finance lead",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Read the last few audits and list any issue that came up more than once.",
+       "Fix what you can in your controls and written steps.",
+       "Bring a simple reserve goal to the board, such as how many months of costs you want set aside."
+      ],
+      "title": "Review audit results and plan your reserves",
+      "why": "Your audits are on time and your finances are well run. Looking at repeat findings and reserve goals helps you stay steady if a big grant ends."
+     }
+    ],
+    "reading_grade": 6.1,
+    "simplified": false,
+    "sources": [
+     {
+      "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+      "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+     },
+     {
+      "title": "ARCvi: Finding and Sustaining Funding",
+      "url": "https://arcvi.org/finding-and-sustaining-funding/"
+     },
+     {
+      "title": "Governance and Related Topics: 501(c)(3) Organizations",
+      "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+     },
+     {
+      "title": "ARCvi: Using Data That Matters",
+      "url": "https://arcvi.org/using-data-that-matters/"
+     },
+     {
+      "title": "Actionable Resources for Change in Violence Intervention (ARCvi)",
+      "url": "https://arcvi.org"
+     }
+    ],
+    "strengths": [
+     "You have a 2 to 3 year strategic plan with a multi-year budget and sustainability ideas, and you keep it tied to yearly work plans.",
+     "You have a written fundraising plan, dedicated fundraising capacity and a clear view of your funding about three years ahead. You also win some large grants.",
+     "You complete independent audits every year, on time, and leaders and the board review financial reports regularly.",
+     "You look past counts to real changes in safety and behavior, you work with outside evaluators, and you use what you learn to adjust programs.",
+     "You share data, insights and practices with the wider field, which fits your role as a training institute and regional anchor."
+    ],
+    "summary": "Here's what I've learned about you. Metro Community Safety Alliance has been doing this work since 2009. You run street outreach, a hospital-based program and re-entry support. You also train peer groups and work on policy. With 48 staff and a budget of about $7.4 million, you are a regional anchor. Your answers show Strengthening-stage work in planning, fundraising, money management and learning from data.\n\nYou are strong in planning. You have a 2 to 3 year strategic plan with a multi-year budget, and you keep it tied to your yearly work plans. You are strong in fundraising too. You have a written plan, someone with dedicated time for it, and a clear view of your funding about three years out. Your money habits are solid. Leaders review financial reports, you complete audits on time every year, and others recognize you for good financial management. In learning, you look past counts to real changes in safety, you work with outside evaluators, and you share what you learn with the field.\n\nYou have room to grow in a few places at the top of the ladder. Your planning is strong, but you can make it a repeatable cycle of plan, do and reflect, and then share it with peers. Fundraising rests on too few people, so more of your team and board can carry it. Beyond that, there is room to grow in large grants, steady audit results, plain-language money updates and a learning agenda. If I were you, I would start with two things. First, write down what you have learned from your current strategic plan, so your next plan builds on it. Second, spread fundraising across more than one person, so your funding does not depend on a few people."
+   }
+  },
+  "C-es": {
+   "domain_ids": [
+    "FM",
+    "FR",
+    "ML",
+    "PL"
+   ],
+   "report": {
+    "conversation": [
+     "¿Qué aprendimos de nuestro plan actual que no queremos perder en el próximo?",
+     "Si la persona que más recauda fondos se fuera mañana, ¿quién podría seguir con esas relaciones?",
+     "¿Qué persona de la junta o del equipo podría asumir un rol en la recaudación de fondos?",
+     "¿Qué tres preguntas sobre nuestro trabajo nos gustaría que los datos respondieran?",
+     "¿Cuántos meses podríamos operar si se terminara nuestra subvención más grande?"
+    ],
+    "focus": [
+     {
+      "gap_ids": [
+       "PL14"
+      ],
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Reúne al equipo de liderazgo para anotar qué funcionó y qué no en el plan actual, en no más de dos páginas.",
+       "Revisa cada programa (alcance en las calles, hospital y reinserción) con una pregunta: ¿qué cambiaríamos?",
+       "Fija fechas fijas cada año para revisar el plan y decidir qué ajustar, como sugiere la lista de pasos de BJA para implementar CVI.",
+       "Usa esas lecciones como base del próximo ciclo de planificación."
+      ],
+      "title": "Aprender de tu plan actual y crear un ciclo repetible",
+      "why": "Tus respuestas muestran que ya tienes un plan estratégico vivo, con presupuesto a varios años. El siguiente paso es guardar lo aprendido para que el próximo plan sea mejor y no empiece de cero. Con 48 personas y tres modelos de programa, un ciclo claro mantiene a todos en la misma dirección y da confianza a quienes financian."
+     },
+     {
+      "gap_ids": [
+       "FR19"
+      ],
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Haz una lista de quién habla hoy con cada financiador y quién escribe las propuestas.",
+       "Invita a una persona de la junta, una del liderazgo y una del equipo de programas a tomar un rol claro.",
+       "Escribe en una página las responsabilidades de cada rol y cuánto tiempo se espera de cada persona.",
+       "Reúnete cada mes por 30 minutos para revisar avances."
+      ],
+      "title": "Formar un equipo de recaudación de fondos",
+      "why": "Tus respuestas muestran que tienes un plan escrito y una persona o consultoría dedicada a recaudar fondos. Pero el trabajo aún no se reparte entre varias personas. Con un presupuesto de unos 7,4 millones, depender de pocas manos es un riesgo si alguien se va o si se pierde una subvención."
+     }
+    ],
+    "plan": [
+     {
+      "gap_ids": [
+       "PL14"
+      ],
+      "horizon": 30,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Haz una reunión de dos horas con el equipo de liderazgo.",
+       "Anota qué funcionó, qué no y qué cambiarías en cada programa.",
+       "Resume todo en dos páginas y compártelo con el equipo."
+      ],
+      "title": "Anotar las lecciones de tu plan estratégico actual",
+      "why": "Tus respuestas muestran que ya aplicas tu plan. Guardar lo aprendido es el primer paso para el siguiente ciclo."
+     },
+     {
+      "gap_ids": [
+       "FR19"
+      ],
+      "horizon": 30,
+      "owner": "Director ejecutivo",
+      "resource": null,
+      "steps": [
+       "Haz una lista de tus financiadores y de quién lleva cada relación.",
+       "Marca las relaciones que dependen de una sola persona.",
+       "Elige a dos o tres personas de liderazgo, junta o programas que podrían ayudar."
+      ],
+      "title": "Mapear quién hace qué en la recaudación de fondos",
+      "why": "Hoy el trabajo de recaudar está en pocas manos. Ver el cuadro completo es el primer paso para repartirlo."
+     },
+     {
+      "gap_ids": [
+       "PL14"
+      ],
+      "horizon": 60,
+      "owner": "Director ejecutivo",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Fija fechas anuales para revisar el plan, por ejemplo en una reunión cada trimestre.",
+       "Define quién prepara la información y quién decide los cambios.",
+       "Pide a los líderes de alcance en las calles, hospital y reinserción que aporten sus lecciones.",
+       "Usa el ciclo para iniciar el próximo plan."
+      ],
+      "title": "Crear un ciclo repetible de planear, hacer y reflexionar",
+      "why": "Convertir las lecciones en un hábito evita que cada plan nuevo empiece de cero."
+     },
+     {
+      "gap_ids": [
+       "FR19"
+      ],
+      "horizon": 60,
+      "owner": "Líder de desarrollo o recaudación de fondos",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Escribe las responsabilidades de cada rol en una página.",
+       "Pide a una persona de la junta que lidere una o dos relaciones con financiadores.",
+       "Reúnanse cada mes por 30 minutos para ver avances y ajustar."
+      ],
+      "title": "Dar roles claros al equipo de recaudación de fondos",
+      "why": "Repartir responsabilidades protege tus ingresos si alguien se va o si se pierde una subvención."
+     },
+     {
+      "gap_ids": [
+       "FM18"
+      ],
+      "horizon": 60,
+      "owner": "Líder de finanzas",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Prepara un resumen de una página en palabras simples: de dónde viene el dinero y en qué se usa.",
+       "Preséntalo en una reunión de equipo y en la junta.",
+       "Deja tiempo para preguntas y anota lo que no se entendió."
+      ],
+      "title": "Compartir un resumen financiero sencillo con todo el equipo",
+      "why": "Tus finanzas son sólidas. Que más personas las entiendan crea confianza y ayuda a decidir mejor."
+     },
+     {
+      "gap_ids": [
+       "PL15"
+      ],
+      "horizon": 90,
+      "owner": "Director del instituto de capacitación",
+      "resource": {
+       "title": "ARCvi: Working Together",
+       "url": "https://arcvi.org/working-together/"
+      },
+      "steps": [
+       "Escoge una práctica que te haya funcionado, como tu ciclo de revisión.",
+       "Conviértela en una guía corta o un taller para organizaciones aliadas.",
+       "Pide opiniones a dos organizaciones pares y mejora la guía."
+      ],
+      "title": "Elegir una buena práctica de planificación para compartir con otros",
+      "why": "Tu instituto de capacitación ya enseña a otras organizaciones. Tu forma de planificar puede ser parte de eso."
+     },
+     {
+      "gap_ids": [
+       "FR20",
+       "FR19"
+      ],
+      "horizon": 90,
+      "owner": "Líder de desarrollo o recaudación de fondos",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "Haz una lista corta de financiadores que dan inversiones grandes.",
+       "Reúne tus resultados y tus informes financieros en un paquete claro.",
+       "Empieza a cultivar la relación antes de pedir dinero.",
+       "Revisa si tu estado ofrece pago de Medicaid por servicios de CVI, sobre todo para el programa de hospital."
+      ],
+      "title": "Preparar el camino hacia una subvención muy grande",
+      "why": "Tu equipo ya consigue subvenciones grandes. Un plan paso a paso ayuda a lograr una aún mayor."
+     },
+     {
+      "gap_ids": [
+       "ML16"
+      ],
+      "horizon": 90,
+      "owner": "Líder de datos y evaluación",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Elige dos o tres preguntas clave sobre tu trabajo, con el equipo y con personas de la comunidad.",
+       "Revisa si tus datos actuales responden esas preguntas y anota lo que falta.",
+       "Anota qué mejoras necesitan tus sistemas de datos para crecer con tu equipo.",
+       "Usa lo aprendido para decidir qué evaluar con un socio externo."
+      ],
+      "title": "Definir preguntas de aprendizaje para guiar tu evaluación",
+      "why": "Tus respuestas muestran buen uso de datos. Unas pocas preguntas claras harán que la evaluación independiente y tus sistemas de datos apunten a lo importante."
+     },
+     {
+      "gap_ids": [
+       "FM17"
+      ],
+      "horizon": 90,
+      "owner": "Líder de finanzas",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Junta los informes de las últimas auditorías y marca lo que se repite.",
+       "Elige uno o dos puntos y define quién los corrige y cuándo.",
+       "Informa a la junta del avance."
+      ],
+      "title": "Revisar los puntos que se repiten en tus auditorías",
+      "why": "Tus auditorías se hacen a tiempo. Mirar los hallazgos que se repiten fortalece tu historial financiero."
+     }
+    ],
+    "reading_grade": null,
+    "simplified": false,
+    "sources": [
+     {
+      "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+      "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+     },
+     {
+      "title": "ARCvi: Finding and Sustaining Funding",
+      "url": "https://arcvi.org/finding-and-sustaining-funding/"
+     },
+     {
+      "title": "Governance and Related Topics: 501(c)(3) Organizations",
+      "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+     },
+     {
+      "title": "ARCvi: Working Together",
+      "url": "https://arcvi.org/working-together/"
+     },
+     {
+      "title": "ARCvi: Using Data That Matters",
+      "url": "https://arcvi.org/using-data-that-matters/"
+     }
+    ],
+    "strengths": [
+     "Tienes un plan estratégico de 2 a 3 años con presupuesto, desarrollo de capacidades y estrategias de sostenibilidad, y lo conectas con tus planes de trabajo.",
+     "Ves de dónde vendrá el dinero durante los próximos tres años y ya tomaste pasos para tener reservas y fondos de varios años.",
+     "Tu manejo financiero es sólido: revisan los informes con regularidad, hacen auditorías cada año y a tiempo, y siguen el gasto por programa o fuente de fondos.",
+     "Mides más que actividades: miras cambios en conducta y seguridad, trabajas con evaluadores externos y usas lo aprendido para adaptar tus programas.",
+     "Compartes datos y prácticas con el resto del campo, y tu instituto de capacitación apoya a otras organizaciones."
+    ],
+    "summary": "Esto es lo que he aprendido de ti: lideras una organización grande y con mucha experiencia. Fundada en 2009, con 48 personas, trabaja en alcance en las calles, intervención en hospitales y apoyo para la reinserción. También tiene un instituto de capacitación y un equipo de política pública. Tus respuestas muestran que las cuatro áreas que revisamos están en la etapa de Fortalecimiento. Eso es un logro de años de trabajo.\n\nEres fuerte en planificación, recaudación de fondos, manejo del dinero y aprendizaje con datos. Tienes un plan estratégico de 2 a 3 años con presupuesto, y lo conectas con los planes de trabajo. Ves tus fuentes de ingresos con tres años de anticipación. Haces auditorías cada año y a tiempo. Mides resultados más allá de las actividades y trabajas con evaluadores externos. Tienes espacio para crecer en la parte más alta de la escalera: aprender de tu plan actual para preparar el siguiente, repartir el trabajo de recaudar fondos entre más personas, conseguir una subvención muy grande y definir preguntas claras para guiar tu evaluación.\n\nSi yo fuera tú, empezaría por dos cosas. Primero, anotar lo que has aprendido con tu plan estratégico actual y crear un ciclo repetible de planear, hacer y reflexionar. Segundo, convertir la recaudación de fondos en un trabajo de equipo, para que no dependa de una sola persona. Estas dos bases protegen la estabilidad de tu organización y abren la puerta a todo lo demás."
+   }
+  },
+  "A-en-all": {
+   "domain_ids": [
+    "CE",
+    "FM",
+    "FR",
+    "GV",
+    "HR",
+    "ML",
+    "PL",
+    "TI"
+   ],
+   "report": {
+    "conversation": [
+     "If our city contract paid two months late, what would we do to cover payroll, and who would decide?",
+     "Can every one of us say our top three goals in our own words? What would we write down today?",
+     "Which parts of the back-office work now sit only with the founder and executive director, and which could we hand to another person or to the board?",
+     "What one change do we most want to see for young people and families, and how would we know it is happening?",
+     "Who could join our board or advisory group so it reflects the neighborhood we serve, including young people's families?"
+    ],
+    "focus": [
+     {
+      "gap_ids": [
+       "PL2",
+       "PL3",
+       "PL5"
+      ],
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Set aside two hours with the founder. Write 3 to 5 goals in plain words for street outreach and for mentoring.",
+       "Fill out one page for each program: the goal, the main activities, a timeline and who owns each one.",
+       "Draw a simple logic model: what you do, and the change you expect for young people and families.",
+       "Share it at a staff meeting and ask each person to say the goals back in their own words."
+      ],
+      "title": "Write one simple work plan",
+      "why": "Your answers show you have no written work plan or logic model yet, and your work runs mostly through you and the founder. A short plan lets your whole team, your board and your funders see what you are doing and why. Planning also moves together with fundraising and money management, so progress here lifts them too."
+     },
+     {
+      "gap_ids": [
+       "FM4",
+       "FM6"
+      ],
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List your monthly costs, with payroll first, and the dates money actually arrives from the city contract and gifts.",
+       "Make a simple 12-month cash chart in a spreadsheet to find months where money runs short.",
+       "Write a short plan for tight months, such as asking the city about payment timing or setting aside small amounts.",
+       "Review the chart for 20 minutes each month with the founder."
+      ],
+      "title": "Make sure payroll is safe every month",
+      "why": "Your answers show that meeting payroll and bills on time is not yet steady. With one city contract as your main income, a late payment could hit your team fast. Steady pay is the base of staff trust, and your staff are the heart of your work."
+     }
+    ],
+    "plan": [
+     {
+      "gap_ids": [
+       "PL2",
+       "PL3"
+      ],
+      "horizon": 30,
+      "owner": "Executive director",
+      "resource": {
+       "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+       "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+      },
+      "steps": [
+       "Write 3 to 5 goals in plain words with the founder.",
+       "Make one page per program (street outreach and mentoring) with activities, timeline and owner.",
+       "Share the plan at a staff meeting and ask staff to say the goals in their own words."
+      ],
+      "title": "Write your goals and a one-page work plan",
+      "why": "Your answers show no written plan, and the work lives with two people. A short plan is a quick win your team can finish in a month."
+     },
+     {
+      "gap_ids": [
+       "FM4",
+       "FR7",
+       "PL9"
+      ],
+      "horizon": 30,
+      "owner": "Executive director",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List monthly costs, with payroll first.",
+       "List every funding source with the amount, the date it arrives and any renewal date.",
+       "Mark months where cash runs tight and note what you could do about them."
+      ],
+      "title": "Build a 12-month cash chart",
+      "why": "Payroll is not yet steady, and one city contract is your main income. Seeing the months ahead helps you act early."
+     },
+     {
+      "gap_ids": [
+       "GV2",
+       "GV8"
+      ],
+      "horizon": 30,
+      "owner": "Board chair",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Pick four meeting dates for the next 12 months.",
+       "Use a one-page agenda: updates, discussion, decisions.",
+       "Ask one person to take short notes on decisions and save them in a shared folder."
+      ],
+      "title": "Set a quarterly board meeting and agenda",
+      "why": "You have a governing group, but your answers show it does not meet on a steady rhythm. One simple agenda is a small step that builds trust and oversight."
+     },
+     {
+      "gap_ids": [
+       "ML3",
+       "ML4",
+       "ML7"
+      ],
+      "horizon": 60,
+      "owner": "Program manager",
+      "resource": {
+       "title": "ARCvi: Using Data That Matters",
+       "url": "https://arcvi.org/using-data-that-matters/"
+      },
+      "steps": [
+       "Choose 2 or 3 outcomes for outreach and for mentoring, with young people and families helping to shape them.",
+       "Pick one shared spreadsheet and one set of definitions for all staff.",
+       "Do a short training with staff on how to enter data, then check in on it at supervision."
+      ],
+      "title": "Pick 2 or 3 outcomes for each program and a simple way to track them",
+      "why": "You already track basic activity. Naming the changes you hope to see lets you show your impact to funders and the community."
+     },
+     {
+      "gap_ids": [
+       "FM6",
+       "FM8",
+       "FM7"
+      ],
+      "horizon": 60,
+      "owner": "Executive director, with the bookkeeper or outside accountant",
+      "resource": {
+       "title": "Governance and Related Topics: 501(c)(3) Organizations",
+       "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+      },
+      "steps": [
+       "Each month, print or save an income and expense report from your accounting system.",
+       "Compare it to the budget and write down the main differences.",
+       "Write down who approves and who records each payment, and share the one-page summary with the board chair."
+      ],
+      "title": "Start monthly money check-ins",
+      "why": "Comparing real spending to your budget and keeping simple reports protects payroll and builds trust with the city and other funders."
+     },
+     {
+      "gap_ids": [
+       "FR5",
+       "FR6",
+       "FR9"
+      ],
+      "horizon": 60,
+      "owner": "Executive director",
+      "resource": {
+       "title": "ARCvi: Finding and Sustaining Funding",
+       "url": "https://arcvi.org/finding-and-sustaining-funding/"
+      },
+      "steps": [
+       "List every funder and donor with amounts and renewal dates.",
+       "Talk with your city contact about renewal timing and multi-year options.",
+       "Pick two or three local funders or businesses and ask for a short meeting about general operating support."
+      ],
+      "title": "Make a simple funder list and ask for longer support",
+      "why": "Your funding is one city contract and small gifts. Longer and more flexible support would make your team and plans more stable."
+     },
+     {
+      "gap_ids": [
+       "HR10",
+       "GV4",
+       "GV10"
+      ],
+      "horizon": 90,
+      "owner": "Executive director and board chair",
+      "resource": {
+       "title": "Community Violence Intervention Leadership Academy (CVILA)",
+       "url": "https://crimelab.uchicago.edu/academies/cvi-leadership-academy"
+      },
+      "steps": [
+       "Write a one-page job description for each of your four roles.",
+       "Adapt a basic bylaws template and a one-page board role description.",
+       "Review and adopt both at a board meeting."
+      ],
+      "title": "Write job descriptions and board roles",
+      "why": "Back-office work is held by two people. Clear roles on paper help staff and board members share the load and stay."
+     },
+     {
+      "gap_ids": [
+       "TI7",
+       "PL6",
+       "ML8"
+      ],
+      "horizon": 90,
+      "owner": "Program manager",
+      "resource": {
+       "title": "Cyber Guidance for Small Businesses",
+       "url": "https://www.cisa.gov/cyber-guidance-small-businesses"
+      },
+      "steps": [
+       "Turn on two-step sign-in and strong passwords for shared accounts and staff phones.",
+       "Write a half-page on who can see participant information.",
+       "Hold a short monthly meeting to check progress on the work plan and look at program data together."
+      ],
+      "title": "Protect participant information and set a plan review rhythm",
+      "why": "Young people and families trust you with sensitive details. Keeping the plan and the data safe and current keeps that trust."
+     }
+    ],
+    "reading_grade": 5.6,
+    "simplified": false,
+    "sources": [
+     {
+      "title": "Community Based Violence Intervention and Prevention Initiative Implementation Checklist (April 2022)",
+      "url": "https://www.ojp.gov/sites/ojp/files/media/document/cvi-implementation-checklist_0.pdf"
+     },
+     {
+      "title": "ARCvi: Finding and Sustaining Funding",
+      "url": "https://arcvi.org/finding-and-sustaining-funding/"
+     },
+     {
+      "title": "Governance and Related Topics: 501(c)(3) Organizations",
+      "url": "https://www.irs.gov/pub/irs-tege/governance_practices.pdf"
+     },
+     {
+      "title": "ARCvi: Using Data That Matters",
+      "url": "https://arcvi.org/using-data-that-matters/"
+     },
+     {
+      "title": "Community Violence Intervention Leadership Academy (CVILA)",
+      "url": "https://crimelab.uchicago.edu/academies/cvi-leadership-academy"
+     },
+     {
+      "title": "Cyber Guidance for Small Businesses",
+      "url": "https://www.cisa.gov/cyber-guidance-small-businesses"
+     }
+    ],
+    "strengths": [
+     "Young people and families trust you. Your answers show your community sees you as credible and relevant, and that is your biggest asset.",
+     "You are a trusted partner. You have relationships with city agencies and schools, and you coordinate with other groups to avoid duplication.",
+     "You care for your people. Staff are on payroll, meet regularly with supervisors, receive training, and get support for trauma and burnout.",
+     "You have the basics of money management: an accounting system, an annual budget and shared financial duties.",
+     "You collect data on the people you serve, and you have someone responsible for data and evaluation. You also have a governing body and reliable technology."
+    ],
+    "summary": "Here's what I've learned about you. You started Southside Youth Peace Collective in 2023. You are in your third year with a team of four, two of them full time. You run street outreach and youth mentoring. Young people and families trust you, and that trust is your biggest asset. Almost all the office work runs through you and your founder, and your funding is mostly one city contract plus small gifts from individuals.\n\nYou are strong in community ties. Your answers show that partners, city agencies and schools see you as credible and trusted. You pay staff through payroll, meet with them regularly, and support them through stress and burnout. You also have an accounting system, an annual budget, shared financial duties, and a governing group. You already collect basic data on the people you serve. Those are real foundations.\n\nYou have room to grow in writing things down. This covers your plan, your goals, your cash flow, and how your money is tracked and reviewed. Right now much of this lives in two heads. That is risky for a team of four with one main funder. It also makes it harder to ask for multi-year support.\n\nIf I were you, I would start with two things. First, put one simple written work plan on paper so every staff member can say what you are working toward. Second, take a close look at your cash flow, so you know payroll is covered in the months ahead, especially if your city contract pays late. These two steps lift almost everything else, including funding, board work and data. We will keep each step small enough for one person to finish."
+   }
+  }
+ }
+}

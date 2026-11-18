@@ -1,5 +1,5 @@
 // Small shared behaviors for the results and roadmap pages: readable API errors and PDF downloads that can fail politely.
-import { ApiError } from "./api";
+import { ApiError, DEMO } from "./api";
 import { esc } from "./dom";
 import { icon } from "./icons";
 
@@ -39,6 +39,7 @@ export function wireDownloads(root: ParentNode) {
     a.setAttribute("aria-disabled", "true");
     say(`${icon("loader", "spin")}<span>Preparing your PDF…</span>`);
     try {
+      if (DEMO) throw new ApiError(501, { error: "PDF downloads need the full version. In this demo, use your browser's Print and choose Save as PDF." });
       const res = await fetch(a.href, { credentials: "same-origin", cache: "no-store" });
       if (!res.ok) {
         let body = {};

@@ -59,7 +59,17 @@ async function sha256Hex(bytes: Uint8Array<ArrayBuffer>): Promise<string> {
   return Array.from(digest, (b) => b.toString(16).padStart(2, "0")).join("");
 }
 
+/** The public demo build (PUBLIC_OCI_DEMO=1) answers /api/* in the browser, with no AWS behind it. */
+export const DEMO = import.meta.env.PUBLIC_OCI_DEMO === "1";
+
 async function request<T>(method: string, path: string, body?: unknown): Promise<T> {
+  if (DEMO) {
+    const { demoRequest } = await import("./demo/backend");
+    const r = await demoRequest(method, path, body);
+    if (r.status === 204) return undefined as T;
+    if (r.status >= 400) throw new ApiError(r.status, (r.body && typeof r.body === "object" ? r.body : {}) as ApiErrorBody);
+    return r.body as T;
+  }
   const headers: Record<string, string> = { Accept: "application/json" };
   let payload: Uint8Array<ArrayBuffer> | undefined;
   if (body !== undefined) {

@@ -1770,3 +1770,8 @@ html:has(.chat-fab) { scroll-padding-bottom: 5.5rem; }
 .chat__head > div:first-child { flex: 1 1 10rem; min-width: 0; }
 .chat__actions { margin-left: auto; }
 /* == end v1.10.11 new chat == */
+
+/* Public demo build only (PUBLIC_OCI_DEMO=1). */
+.demo-banner { margin: 0; padding: 0.6rem 1rem; background: #eef2ff; color: #001c60; border-bottom: 1px solid #c7d2fe; font-size: 0.875rem; line-height: 1.45; text-align: center; }
+@media print { .demo-banner { display: none; } }
+.demo-mode [data-listen] { display: none !important; } /* read-aloud needs Amazon Polly */

@@ -1,6 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import Icon from "../components/Icon.astro";
+const DEMO = import.meta.env.PUBLIC_OCI_DEMO === "1";
 ---
 <Base title="Sign in" width="narrow" public>
   <div class="title-band">
@@ -17,7 +18,7 @@ import Icon from "../components/Icon.astro";
         <ul class="demo-creds">
           <li>Organization leader: <code>demo</code> / <code>demo</code></li>
           <li>Presentation, start page already filled in: <code>showcase</code> / <code>showcase</code></li>
-          <li>Everytown staff: <code>staff</code> / <code>staff</code></li>
+          {!DEMO && <li>Everytown staff: <code>staff</code> / <code>staff</code></li>}
         </ul>
       </div>
     </div>
@@ -76,6 +77,12 @@ import Icon from "../components/Icon.astro";
       : "Sign in to go back to the page you were on.";
     note.hidden = false;
   }
+
+  // A link from the portfolio or a presentation (?demo=org) arrives with the public demo sign-in filled in.
+  // Only these published test credentials, chosen by a fixed key, never a value taken from the link.
+  const DEMO_LOGINS: Record<string, string> = { org: "demo", showcase: "showcase" };
+  const preset = DEMO_LOGINS[params.get("demo") ?? ""];
+  if (preset) { user.value = preset; pass.value = preset; }
 
   // Already signed in? Go straight on.
   api.get<{ user: User }>("/me").then(({ user }) => location.replace(nextUrl(user.role))).catch(() => { /* not signed in */ });

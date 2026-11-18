@@ -33,7 +33,7 @@ const wrapClass = { default: "wrap", narrow: "wrap wrap--narrow", report: "wrap 
     } catch (e) {}
   </script>
 </head>
-<body>
+<body class={import.meta.env.PUBLIC_OCI_DEMO === "1" ? "demo-mode" : undefined}>
   <a class="skip-link" href="#main">Skip to main content</a>
   <header class="site-header">
     <div class="site-header__inner">
@@ -75,6 +75,13 @@ const wrapClass = { default: "wrap", narrow: "wrap wrap--narrow", report: "wrap 
       </div>
     </div>
   </header>
+  {import.meta.env.PUBLIC_OCI_DEMO === "1" && (
+    <p class="demo-banner" role="note">
+      <strong>Public demo.</strong> Runs in your browser with synthetic data; nothing you enter leaves this device.
+      Reports for the three sample organizations were written by Claude. Other answers get a report built by the
+      scoring engine, without AI.
+    </p>
+  )}
   <main id="main" tabindex="-1" class={wrapClass}>
     <slot />
   </main>
